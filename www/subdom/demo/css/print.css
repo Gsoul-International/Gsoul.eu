@@ -1,0 +1,22 @@
+@charset "UTF-8";       
+@page{size: portrait; margin:.5cm}
+*{border-color:#000!important;background:transparent!important;color:#000!important;box-shadow:none!important;text-shadow:none!important}
+html{font-size:9.75pt;color:#000 !important;}
+body{margin:0}
+p,h2,h3{orphans:3;widows:3}
+h1,h2,h3{page-break-after:avoid}
+pre,blockquote{page-break-inside:avoid}
+thead{display:table-header-group}
+tr,img{page-break-inside:avoid}
+abbr,acronym{border-bottom-width:thin}
+img{max-width:100%!important}
+hr{background-color:transparent;background-image:none;filter:none;zoom:normal;border-width:thin}
+hr:before{display:none}table[border]{border-width:thin}
+table[border] td,table[border] th{border-width:thin}table[border=""],table[border="0"]{border-width:0}
+table[border=""] td,table[border="0"] td,table[border=""] th,table[border="0"] th{border-width:0}
+table{page-break-inside: avoid}
+a{text-decoration: none}
+.page-main{margin: 0px !important; padding: 0 !important;color:#000 !important;}
+.wrap{color:#000 !important;}
+.no-print, .page-head, .page-left, .page-right, .page-foot{display: none !important}
+ul.news{display: none !important}
