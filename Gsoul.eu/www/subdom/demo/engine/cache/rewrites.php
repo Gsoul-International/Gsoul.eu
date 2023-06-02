@@ -1,0 +1,4 @@
+<?php
+global $systemRewrites;
+$systemRewrites["/?module=FMainPages"]="/";$systemRewrites["/?language=1&module=FPages"]="fpages/";$systemRewrites["/?module=FPages&idp=35"]="o-nas-35/";$systemRewrites["/?module=FPages&idp=56"]="reference-56/";$systemRewrites["/?module=FPages&idp=176"]="novinky-176/";$systemRewrites["/?module=FNews&idn=1"]="novinky/novinka-1-1/";$systemRewrites["/?module=FNews&idn=2"]="novinky/a-2/";$systemRewrites["/?module=FNews&idn=3"]="novinky/b-3/";$systemRewrites["/?module=FNews&idn=4"]="novinky/c-4/";$systemRewrites["/?module=FPages&idp=180"]="test-1-180/";$systemRewrites["/?module=FPages&idp=181"]="test-2-181/";$systemRewrites["/?module=FPages&idp=182"]="nejblizsi-turnaje-182/";
+?>

@@ -1,0 +1,3 @@
+<?php
+global $systemLanguages;
+$systemLanguages["2"]=new stdClass();$systemLanguages["2"]->nazev="Čeština";$systemLanguages["2"]->vychozi="0";$systemLanguages["4"]=new stdClass();$systemLanguages["4"]->nazev="Deutch";$systemLanguages["4"]->vychozi="0";$systemLanguages["1"]=new stdClass();$systemLanguages["1"]->nazev="English";$systemLanguages["1"]->vychozi="1";$systemLanguages["8"]=new stdClass();$systemLanguages["8"]->nazev="Russian";$systemLanguages["8"]->vychozi="0";$systemLanguages["3"]=new stdClass();$systemLanguages["3"]->nazev="U.S. English";$systemLanguages["3"]->vychozi="0";$systemLanguages["5"]=new stdClass();$systemLanguages["5"]->nazev="العربية";$systemLanguages["5"]->vychozi="0";
